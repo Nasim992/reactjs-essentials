@@ -106,7 +106,10 @@
 ### For using React Redux in your project 
 
 ```javascript 
+    * npm install redux
     * npm install react-redux
+    Or,
+    *npm install redux react-redux --save
 ```
  [Redux for Begineers](https://redux.js.org/basics/basic-tutorial)
  [More Details](https://react-redux.js.org/introduction/quick-start)
