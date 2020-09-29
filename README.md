@@ -108,7 +108,10 @@
 ```javascript 
     * npm install react-redux
 ```
+ [Redux for Begineers](https://redux.js.org/basics/basic-tutorial)
  [More Details](https://react-redux.js.org/introduction/quick-start)
+
+
 
 ---
 ### To add firebase on your project 
